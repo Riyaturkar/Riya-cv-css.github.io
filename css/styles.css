@@ -1,0 +1,240 @@
+body{
+    
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    color: #40514E;
+
+
+
+}
+p{
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    line-height: 2;
+}
+.first-box{
+
+    background-color: #e0ebe8;
+    
+    padding: 50px;
+    height: 610px;
+    
+}
+.top-cloud{
+  height: 80px;
+  width: 200px;
+  position:relative;
+  left: 300px;
+  top: 100px;
+
+}
+.middle-cloud{
+    height: 80px;
+    width: 200px;
+    position: relative;
+    right:  100px;
+    bottom: 300px;
+    right: 600px;
+}
+.bottom-cloud{
+    
+    height: 80px;
+    width: 200px;
+    position: relative;
+    right: 700px;
+}
+h1{
+    font-size: 4.59rem;
+    margin: 00 auto 00 auto;
+    
+    
+    
+    font-family: 'Saylyn';
+  
+color:#46a3a3 ;
+
+ 
+}
+h2{
+    font-family: 'IBM Plex Serif', serif;
+
+color:#39a6a3 ;
+
+}
+h3{
+
+font-family: 'IBM Plex Serif', serif;
+color:#39a6a3 ;
+
+}
+.hello{
+    padding-bottom: 30px;
+    font-size: 30px;
+    color:#298a86 ;
+}
+.touch{
+    padding-top: 30px;
+    color:#298a86 ;
+    
+    margin: auto;
+    font-size: 40px;
+}
+.intro{
+    width:800px ;
+    margin: auto;
+}
+.my-pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    padding-top: 50px;
+}
+.rainbow-img{
+    margin-top: 140px;
+    width: 600px;
+    height: 260px;
+    position: relative;
+    left: 200px;
+    top: 20px;
+    padding-bottom: 10px;
+
+}
+.im{
+    position: relative;
+    top: 80px;
+    
+
+
+
+}
+.programmer
+{
+    position: relative;
+    top: 80px;
+    color:#39a6a3 ; 
+    
+}
+.my-skill
+{
+    font-size: 50px;
+    color:#298a86 ;
+
+}
+.prog{
+    font-size: 28px;
+}
+.com
+    {
+        font-size: 28px;
+    }
+
+.coding-img{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 40px;
+    
+}
+.conversation-img{
+    height: 200px;
+    margin-top: 10px;
+    width: 200px;
+    margin-right: 40px;
+    float: right;
+}
+.bottom-container{
+    background-color:#4da8a5 ;;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+.middle-container{
+    background-color: whitesmoke;
+}
+.contact-me{
+
+    margin-top: 00px;
+}
+a{
+    color:#056b68 ;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.copyright
+{
+    color:white;
+    font-size: 1rem;
+    padding: 5px;
+}
+.last{
+    width: 600px;
+    margin: auto;
+    padding: 40px;
+    line-height: 2;
+
+}
+hr{
+    margin-bottom: 00px;
+    border-style: dotted none none;
+    width: 90px;
+    height: 50px;
+    border-width: 8px;
+    margin-top: 50px;
+    
+    border-color:#ccebe3; ;
+}
+.skill-row
+{
+ width: 50%;
+ margin-top: 100px;
+ margin-left: auto;
+ margin-right:auto ;
+ margin-bottom: 100px;
+ text-align: left;
+ padding-bottom: 100px;
+ 
+}
+
+
+.btn {
+    
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;
+        color: #FFFFFF;
+        font-family: Arial;
+        font-size: 17px;
+        font-weight: 200;
+        padding: 6px;
+        background-color: #68C4C7;
+        -webkit-box-shadow: 1px 1px 20px 0 #000000;
+        -moz-box-shadow: 1px 1px 20px 0 #000000;
+        box-shadow: 1px 1px 20px 0 #000000;
+        text-shadow: 1px 1px 20px #000000;
+        border: solid #337FED 1px;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+        
+        margin-bottom: 20px;
+     }
+     
+     .btn:hover {
+        border: solid #DEE3E2 1px;
+        background: #48D4C5;
+        background-image: -webkit-linear-gradient(top, #48D4C5, #3D94F6);
+        background-image: -moz-linear-gradient(top, #48D4C5, #3D94F6);
+        background-image: -ms-linear-gradient(top, #48D4C5, #3D94F6);
+        background-image: -o-linear-gradient(top, #48D4C5, #3D94F6);
+        background-image: -webkit-gradient(to bottom, #48D4C5, #3D94F6);
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;
+        text-decoration: none;
+        
+     }
+    
